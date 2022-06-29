@@ -1,0 +1,5 @@
+Je me présente je m'appel Mathieu LACROIX 20 ans, actuellement étudiant en 2ème année de d'IUT informatique à Orsay.
+Ce site Web à été créé pour vous présenter le travail que j'ai effectué, tout le travail à été effectué sous python, vous y aurez accès via la sidebar.
+	 - Rapport de stage : ou vous pourrez télécharger les fichier du rapport et les comptes rendus. 
+	 - Rapace : un outils développé avec de l'intelligence artificiel afin de détecter quelle type de rapace vous avez comme photo.
+	 - Data Analysed : L'outils principal que l'on a développé durant ce stage.
