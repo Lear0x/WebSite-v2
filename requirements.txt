@@ -1,0 +1,12 @@
+plotly
+streamlit
+numpy
+openpyxl
+pandas
+tenacity
+scipy
+streamlit-aggrid
+
+
+
+
