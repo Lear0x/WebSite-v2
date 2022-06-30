@@ -2,10 +2,10 @@ streamlit
 numpy
 plotly
 openpyxl
-pandas==1.4.2
-tenacity==8.0.1
-scipy==1.8.0
-streamlit-aggrid==0.2.3
+pandas
+tenacity
+scipy
+streamlit-aggrid
 
 
 
