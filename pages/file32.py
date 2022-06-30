@@ -1,25 +1,16 @@
 
 #STEP 1 ---- WEB INTERACTIVE DATA ----
 
-
-from cmath import log
 from io import StringIO
-from operator import index
-from posixpath import basename
-from sqlite3 import DateFromTicks
-import string
-
-
 import numpy as np
 import pandas as pd
-from pyparsing import col, srange
 import streamlit as st
+import plotly
 import plotly.graph_objs as go
 import plotly.figure_factory as ff
 import plotly.express as px
-from pathlib import Path
-import struct
-from numpy import loadtxt, zeros, zeros_like
+
+
 
 
 
