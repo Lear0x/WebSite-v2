@@ -1,6 +1,6 @@
 streamlit
 numpy
-#plotly
+plotly
 openpyxl
 pandas
 tenacity
