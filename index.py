@@ -13,3 +13,4 @@ with open('utils/accueil.txt', encoding='utf8') as f:
 
 if __name__ == "__main__":
     carroussel.main()
+    st.snow

@@ -107,6 +107,9 @@ def removeChecksumFromDB(cs):
     conn.commit()
     conn.close()
 
+
+    
+
 #------------------------------------
 
 
